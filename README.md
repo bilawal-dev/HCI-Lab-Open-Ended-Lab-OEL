@@ -1,9 +1,13 @@
 # HCI Lab — Open-Ended Lab (OEL)
 
-**Student:** Muhammad Bilawal
-**Roll No:** 23MDSWE277
-**Section:** 32
-**Semester:** 6th
+**Student:** Muhammad Bilawal  
+
+**Roll No:** 23MDSWE277  
+
+**Section:** 32  
+
+**Semester:** 6th  
+
 **Course:** Human-Computer Interaction Lab
 
 ---
